@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users type="array">
+  <user>
+    <remember-token>cddcb7ac7c1469a4ab2510aad3968d6f</remember-token>
+    <id type="integer">181</id>
+    <name>New Name</name>
+    <admin type="boolean">false</admin>
+    <updated-at type="datetime">2012-04-29T20:54:24Z</updated-at>
+    <password-digest>$2a$04$6GmYrM0lwT4nAbttx3.hRubi9UcBEUHbwgJzqwD/U4rN2ofvLS.C2</password-digest>
+    <email>new@example.com</email>
+    <created-at type="datetime">2012-04-29T20:54:24Z</created-at>
+  </user>
+</users>
